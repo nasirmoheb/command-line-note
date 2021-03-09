@@ -26,12 +26,19 @@ else if(command === 'read'){
 }
 else if(command === 'list'){
     allNotes = notes.getAll();
-    console.log(`Printing ${allNotes.length} note(s) `);
+
+
+    //Print the number of notes (How many notes exist in the file.).
+
+    /*
+        your code here
+    */
+
     allNotes.forEach((note) => {
         notes.logNote(note)
     });
 }
-else if(command == 'remove'){
+else if(command === 'remove'){
    /*
         write your code here
 
