@@ -25,7 +25,7 @@ var addNotes = (title, body) => {
     /* --instruction
         check if a note already exists?
         if yes; then return 'true'
-        if not; save the note. and print Note already exist.
+        if not; save the note. and print the newly added note.
     */
 
         /* --code
