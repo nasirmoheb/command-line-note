@@ -1,15 +1,15 @@
+
+
 Here are the step to clone the github repository and complete the assignment. (read carefully)
 
 
-If you have any question regarding the assignment you reach me at my e-mail address: qadeerahh@gmail.com
-
-Note: Your job is to complete the simple note-app by completing two function (read(), remove()).
-Additionally, adding your code in those areas that is commented as \*--code--*\. 
+Note: Your job in this assignment is to complete simple note-app.
+You do this by add the functionality of read and remove in simple note-app
+Additionally, add your code in those areas that is commented as \*--code--*\. 
 Do not use any additional module.
 
 
 In this assignment, we assume that Node.js and npm is already installed and working on your computer.
-
 
 
 step 1. Install git on your machine (skip the first step if git is already installed on your machine)  
@@ -58,6 +58,10 @@ step 4. After testing your code and making sure that it does what exactly it sho
 
 step 5. (optional, bonus point) If you are already familiar with GitHub, then create a repository and push your files in that repository. The only thing you have to do in this case is just send us the link for your GitHub repo.
 
+Here is a video tutorial for creating a repo in the GitHub and pushing your code.
+
+
+If you have any question regarding the assignment you reach me at my e-mail address: qadeerahh@gmail.com
 
 Good luck.
 
