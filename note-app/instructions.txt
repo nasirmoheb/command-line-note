@@ -1,13 +1,20 @@
 Here are the step to clone the github repository and complete the assignment. (read carefully)
 
 
+If you have any question regarding the assignment you reach me at my e-mail address: qadeerahh@gmail.com
+
+Note: Your job is to complete the simple note-app by completing two function (read(), remove()).
+Additionally, adding your code in those areas that is commented as \*--code--*\. 
+Do not use any additional module.
+
+
 In this assignment, we assume that Node.js and npm is already installed and working on your computer.
+
 
 
 step 1. Install git on your machine (skip the first step if git is already installed on your machine)  
 
 Open the link below to download the git: https://git-scm.com/downloads
-
 
 
 Here is a video tutorial for installing git in windows machines: 
@@ -23,14 +30,16 @@ You do this by running the following command in the command prompt.
 Here is a video tutorial for cloning GitHub repositories:
 https://www.youtube.com/watch?v=O72FWNeO-xY
 
-step 3. Install the node dependencies:
+
+step 3. Install the nodejs dependencies by running the following command:
 
     npm update
 
-step 4. Go to the note-app folder, open app.js and note.js.
-Read the following line commented in the app.js and note.js for what you have to do. 
 
-    /* Instruction
+step 4. Go to the note-app folder, open app.js and note.js.
+Read carefully the following commented line in the app.js and note.js for what you have to do. 
+
+    /* --Instruction--
 
         1. Open a file
         2. ...
@@ -38,8 +47,18 @@ Read the following line commented in the app.js and note.js for what you have to
     */  
 
     
-Write your code in those places that is commented as follow:
+After reading the instructions, write your code in those places that is commented as follow:
 
-     /* Code
+     /* --Code--
 
      */  
+
+
+step 4. After testing your code and making sure that it does what exactly it should do. Zip your app.js and note.js and submit through Google class room.
+
+step 5. (optional, bonus point) If you are already familiar with GitHub, then create a repository and push your files in that repository. The only thing you have to do in this case is just send us the link for your GitHub repo.
+
+
+Good luck.
+
+
