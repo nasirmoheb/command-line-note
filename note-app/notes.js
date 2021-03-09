@@ -38,20 +38,29 @@ var getAll = () => {
 }
 
 var getNote = (title) => {
-    // fetch the notes
-    // filter notes, get the one with title of argument
-    // print the note
+
+    /* --Instruction--
+        1. Fetch the notes
+        2. Filter notes get the one with title of argument
+        3. Return the note if found it.
+    */
+   
+    /* --Code--
+      write your code here
+    */
   
 };
 
 var removeNote = (title) => {
-    // fetch the notes
-    // filter notes, remove the one with title of the argument.
-    // save new notes array.
+      /* --Instruction--
+        1. fetch the notes
+        2. filter notes, remove the one with title of the argument.
+        3. save new notes array.
+      */
+    
 
-    /*
-        write you code here.
-
+    /* --Code--
+      write your code here
     */
    
 };
