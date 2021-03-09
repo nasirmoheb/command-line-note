@@ -7,8 +7,7 @@ var argv = yargs.argv;
 
 /* --Instruction--
     1. How can we add alias to our commands?
-    2.Give the use feedback if the command if not completely provided.
-        For example, if someone want to add a note with title only.
+    2.Give the user feedback if the command is not completely provided. For example, if someone want to add a note with title only.
     3. Hint: use yarqs options.
 */
 
@@ -33,6 +32,8 @@ else if(command === 'read'){
         3. Print 'Note note found.'
        
     */
+
+        
 
     /* --Code--
       write your code here
@@ -60,7 +61,7 @@ else if(command === 'remove'){
     /* --Instruction--
         1. Get a title from the command line
         2. Pass the title to removeNote function in notes.js
-        3. Give use the feedback wether or not the note was created.
+        3. Give use the feedback wether or not the note was removed.
     */
 
     

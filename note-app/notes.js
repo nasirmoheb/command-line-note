@@ -22,11 +22,17 @@ var addNotes = (title, body) => {
         body
     };
  
-    /*
+    /* --instruction
         check if a note already exists?
         if yes; then return 'true'
         if not; save the note. and print Note already exist.
     */
+
+        /* --code
+
+            write your code here
+
+        */
 
     saveNote(notes)
     return note;
