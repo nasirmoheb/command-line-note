@@ -5,11 +5,14 @@ var notes = require('./notes.js')
 
 var argv = yargs.argv;
 
-/* Instruction
-
+/* --Instruction--
+    1. How can we add alias to our commands?
+    2.Give the use feedback if the command if not completely provided.
+        For example, if someone want to add a note with title only.
+    3. Hint: use yarqs options.
 */
 
-// Getting the first command after node index.js
+
 var command = argv._[0];
 
 if(command == 'add'){
